@@ -1,0 +1,2 @@
+gym[classic_control]==0.25.2
+tensorflow==2.9.1
